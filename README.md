@@ -1,16 +1,36 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hello+people!;I'm+a+student+at+FATEC+SCS!" alt="Typing SVG" /></a>
 
-<!--
-**Doriguelo/Doriguelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👨‍💻 About me
+I'm a IT student at FATEC SCS, I'm taking a full Python course, I'm interested in learning more about JavaScript, HTML and CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Python by taking an full Python course.
+- 🔭 I’m looking for opportunities, learn more and more!
+- 🖥 Interested in collaborating with community projects.
+
+<br>
+<br>
+
+## Main programming language
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+</div>
+
+<br>
+<br>
+
+## Other languages and tools
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" width="40" height="40"/>&nbsp;
+</div>
+
+<br>
+<br>
+
+### I'm available here!
+[![Linkedin Badge](https://img.shields.io/badge/Tiago-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-doriguelo-a568a1221/)
