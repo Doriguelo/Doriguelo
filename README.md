@@ -1,4 +1,4 @@
-# (System.out.println("Olá! Me chamo Tiago 👨‍💻");
+# System.out.println("Olá! Me chamo Tiago 👨‍💻");
 
 **`Desenvolvedor Back-end`**
 
