@@ -13,15 +13,6 @@ para o ecossistema Java, com foco em Java, Spring Framework e desenvolvimento ba
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Doriguelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doriguelo&layout=compact&langs_count=6&theme=tokyonight"/>
 
-  ---
-<br>
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Doriguelo/Doriguelo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Doriguelo/Doriguelo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Doriguelo/Doriguelo/output/pacman-contribution-graph.svg">
-</picture>
-
 ---
 <br>
 
