@@ -13,8 +13,7 @@ para o ecossistema Java, com foco em Java, Spring Framework e desenvolvimento ba
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Doriguelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doriguelo&layout=compact&langs_count=6&theme=tokyonight"/>
 
----
-<br>
+<br><br>
 
 ## Tecnlogias e Ferramentas 💻
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,aws,idea,github,mongodb,git,postman,docker)](https://skillicons.dev)
